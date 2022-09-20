@@ -1,4 +1,4 @@
-## ETboard, IoT의 시작 ⚡
+## ETboard, IoT의 시작 💻
 
 ESP32 기반 Arduino 상위 호환 보드
 
@@ -28,16 +28,11 @@ ESP32 기반 Arduino 상위 호환 보드
 </br></br>
 
 
-### 한국공학기술연구원(KETRi) 채널 안내
-* [KETRi 홈페이지 (http://www.ketri.re.kr)](http://www.ketri.re.kr)
-* [KETRi 페이스북 (https://www.facebook.com/ketri2484/)](https://www.facebook.com/ketri2484/)
-* [KETRi 인스타그램 (https://www.instagram.com/ketri_no1/)](https://www.instagram.com/ketri_no1/)
-* KETRi 전화번호: 061-721-2484
-
 <!--
 **etboard/etboard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://gist.github.com/rxaviers/7360908
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
