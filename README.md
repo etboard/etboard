@@ -1,13 +1,13 @@
-### ⚡ ETboard IoT의 시작
+## ETboard, IoT의 시작 ⚡
 
 ESP32 기반 Arduino 상위 호환 보드
 
-지원 언어
+### 지원 언어
 - Entry
 - Arduino
 - MicroPython
 
-교육용 코딩 키트
+### 교육용 코딩 키트
 - 신재생 에너지
 - 스마트 화분
 - 스마트 팩토리
